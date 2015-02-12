@@ -1,0 +1,372 @@
+html, body {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.centeringtable {
+	background-image: url(images/background.jpg);
+	background-repeat: repeat-x;
+	width: 100%;
+	height: 100%;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul {
+
+margin:0;
+padding: 0;
+}
+
+blockquote{
+	margin-left:40px;
+}
+
+body {
+	background-image: url(images/body_bg.gif);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #254650;
+}
+ul  {
+	margin-top: 5px;
+	padding-left: 40px;
+	margin-bottom: 10px;
+}
+li  {
+	padding-left: 5px;
+	margin-left: 10px;
+}
+h6 {
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: normal;
+}
+
+
+#menuholder {
+	padding-right: 35px;
+	padding-left: 34px;
+	padding-bottom: 15px;
+}
+
+.contentcell {
+	padding-right: 35px;
+	padding-left: 34px;
+	text-align: left;
+}
+#pagename {
+	background-image: url(images/heading_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: 34px 0px;
+	height: 40px;
+}
+#sectionname {
+	margin-left: 28px;
+	margin-top: 15px;
+}
+#backnavigation {
+	float: right;
+	width: 350px;
+	position: relative;
+	top: -15px;
+	text-align: right;
+	margin-right: 50px;
+}
+#backnavigation a {
+	font-size: 10px;
+	color: #2F5864;
+}
+#leftcolumn {
+	width: 400px;
+	float: left;
+	background-repeat: no-repeat;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #62ACB9;
+	padding-right: 60px;
+	margin-bottom: 20px;
+}
+#leftcolumn p {
+	margin-bottom: 20px;
+}
+#leftcolumn form {
+	margin-bottom: 15px;
+}
+
+
+#rightcolumn {
+	float: right;
+	width: 300px;
+	margin-right: 40px;
+}
+
+*html #rightcolumn {
+	float: right;
+	width: 300px;
+	margin-right: 20px;
+}
+
+#content {
+	padding-top: 25px;
+	padding-left: 55px;
+	padding-right: 150px;
+	line-height: 16px;
+	text-align: left;
+}
+
+
+#content p, #soundingscontent p {
+	margin-bottom: 10px;
+}
+
+#content .readmorelink{
+	text-transform: uppercase;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #428895;
+	margin-left: 210px;
+	padding-top: 5px;
+	margin-bottom: 40px;
+	}
+#content .readmorelink a {
+	color: #2F5864;
+	font-weight: bold;
+}
+
+#content .readmorelinklong{
+	text-transform: uppercase;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #428895;
+	padding-top: 5px;
+	}
+#content .readmorelinklong a {
+	color: #2F5864;
+	font-weight: bold;
+}
+
+#soundingscontent {
+	padding-right: 20px;
+	padding-top: 25px;
+	padding-left: 55px;
+	text-align: left;
+}
+#soundingssubmenu {
+background-image: url(images/heading_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: 34px 0px;
+	height: 40px;
+}
+#soundingssubmenu a {
+	color: #2F5864;
+	text-decoration: none;
+}
+
+#soundingssubmenu ul{
+	list-type:none;
+	padding-left: 10px;
+}
+
+#soundingssubmenu li{
+	display:inline;
+	font-size: 14px;
+	font-weight: bold;
+}
+#soundingssubmenu li .current {
+	text-decoration: underline;
+}
+#toplineannouncement {
+	margin-top: 5px;
+	text-align: right;
+	margin-right: 50px;
+}
+#toplineannouncement a {
+	text-decoration: underline;
+	color: #2F5864;
+}
+
+#sidebarpoem {
+	padding-top: 20px;
+	margin-top: 20px;
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 14px;
+	margin-right: 40px;
+}
+
+
+.horizontalillustrationcontainer {
+	float: left;
+	width: 345px;
+	height: 300px;
+	margin-right: 20px;
+	border: 1px solid #448193;
+	padding: 5px;
+}
+
+.verticalillustrationcontainer {
+	float: left;
+	width: 245px;
+	height: 354px;
+	margin-right: 20px;
+	border: 1px solid #448193;
+	padding: 5px;
+}
+
+	
+.articleillustration {
+	float: left;
+	margin-bottom: 25px;
+	padding: 5px;
+	border: 1px solid #448193;
+	margin-right: 25px;
+}
+
+.articleillustrationcaption {
+	width: 335px;
+	font-size: 10px;
+	background-color: #D2E8EB;
+	margin-bottom: 15px;
+	padding-bottom: 10px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	font-style: italic;
+}
+
+.articleillustrationnocaption {
+	float: left;
+	margin-bottom: 25px;
+	padding: 5px;
+	border: 1px solid #448193;
+	margin-right: 25px;
+}
+.extraillustration {
+	padding: 5px;
+	border: 1px solid #448193;
+}
+.extraillustrationcaption {
+	width: 262px;
+	font-size: 10px;
+	background-color: #D2E8EB;
+	margin-bottom: 15px;
+	padding-bottom: 10px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	font-style: italic;
+	clear: both;
+	margin-top: 10px;
+}
+
+
+.articletitle {
+	background-image: url(images/title.gif);
+	background-repeat: no-repeat;
+	height: 41px;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-left: 10px;
+	font-size: 12px;
+	clear: both;
+}
+.articletitle2 {
+	background-image: url(images/title2.gif);
+	background-repeat: no-repeat;
+	height: 41px;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-left: 10px;
+	font-size: 12px;
+	clear: both;
+}
+.author {
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+.alternaterow {
+	background-color: #B5D8DE;
+}
+
+.automatic_access {
+	display:none;
+}
+.separator {
+	border-top: 1px solid #418592;
+}
+
+
+
+#fullcontentlink {
+	color: #418592;
+	font-size: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top-width: 10px;
+	border-top-style: solid;
+	border-top-color: #2F5864;
+	margin-left: 54px;
+	margin-right: 150px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #2F5864;
+	margin-bottom: 15px;
+}
+
+
+#subscribebox {
+	font-size: 10px;
+	color: #FFFFFF;
+	margin-left: 55px;
+	background-color: #418592;
+	margin-right: 80px;
+	background-image: url(images/subscribe_box_bg.gif);
+	background-repeat: no-repeat;
+	height: 80px;
+	padding-top: 20px;
+	padding-left: 30px;
+	margin-bottom: 20px;
+	text-align: left;
+	margin-top: 20px;
+}
+#subscribebox #subscribebtn {
+	margin-top: 12px;
+}
+
+
+
+
+#footer {
+	color: #CCCCCC;
+	height: 30px;
+	font-size: 10px;
+	text-align: right;
+	padding-top: 10px;
+	background-image: url(images/footer_bg.png);
+	padding-right: 40px;
+	padding-bottom: 10px;
+	margin-bottom: 1px;
+}
+#footer #footnote {
+	float: left;
+	width: 300px;
+	text-align: left;
+	padding-left: 55px;
+}
+
+
+#credit{
+text-align: right;
+}
+#credit a{
+	font-size: 10px;
+	color: #418592;
+	
+	padding-right: 20px;
+}

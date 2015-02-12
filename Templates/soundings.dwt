@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Lake  -  Journal of Arts and Environment</title>
+<!-- TemplateEndEditable -->
+<script language="JavaScript" type="text/javascript" src="../rollovers.js"></script>
+<link href="../secondary.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body onload="MM_preloadImages('../images/soundings_over.gif','../images/subscribe_over.gif','../images/submissions_over.gif','../images/support_over.gif','../images/advertise_over.gif','../images/archives_over.gif')">
+<table border="0" cellpadding="0" cellspacing="0" class="centeringtable">
+  <tr>
+    <td align="center" valign="top"><table width="919" border="0" cellpadding="0" cellspacing="0" background="../images/background.png">
+      <tr>
+        <td class="contentcell"><img src="../images/header.gif" width="850" height="112" border="0" usemap="#Map" /></td>
+      </tr>
+      <tr>
+        <td id="menuholder"><a href="../archives.html"><img src="../images/archives.gif" width="132" height="35" border="0" id="Image1" onmouseover="MM_swapImage('Image1','','../images/archives_over.gif',1)" onmouseout="MM_swapImgRestore()" /></a><a href="../soundings.html"><img src="../images/soundings_over.gif" name="Image2" width="113" height="35" border="0" id="Image2" onmouseover="MM_swapImage('Image2','','../images/soundings_over.gif',1)" onmouseout="MM_swapImgRestore()" /></a><a href="../subscribe.html"><img src="../images/subscribe.gif" width="138" height="35" border="0" id="Image3" onmouseover="MM_swapImage('Image3','','../images/subscribe_over.gif',1)" onmouseout="MM_swapImgRestore()" /></a><a href="../support.html"><img src="../images/support.gif" name="Image4" width="112" height="35" border="0" id="Image4" onmouseover="MM_swapImage('Image4','','../images/support_over.gif',1)" onmouseout="MM_swapImgRestore()" /></a><a href="../advertise.html"><img src="../images/advertise.gif" width="119" height="35" border="0" id="Image5" onmouseover="MM_swapImage('Image5','','../images/advertise_over.gif',1)" onmouseout="MM_swapImgRestore()" /></a><a href="../submissions.html"><img src="../images/submissions.gif" width="236" height="35" border="0" id="Image6" onmouseover="MM_swapImage('Image6','','../images/submissions_over.gif',1)" onmouseout="MM_swapImgRestore()" /></a></td>
+      </tr>
+      <tr>
+        <td class="contentcell" id="soundingssubmenu"><!-- TemplateBeginEditable name="issuename" -->
+          <ul>
+            <li>Reviews</li>
+             <li><u>Resources</u></li>
+             <li>Poems</li>
+            </ul>
+          <!-- TemplateEndEditable --></td>
+      </tr>
+      <tr>
+        <td class="soundings" id="soundingscontent"><!-- TemplateBeginEditable name="soundingsleftcolumn" -->
+          <div id="leftcolumn">
+            <p class="articletitle">links:</p>
+            <p><a href="http://web.ubc.ca/okanagan/creative/welcome.html">UBC Okanagan  Department of Creative Studies </a></p>
+            <p><a href="http://www.alecc.ca/">Association for  Literature, Environment and Culture in Canada </a>(ALECC)<br />
+                <a href="http://www.greenmuseum.org/"><br />
+                  The Green Museum</a><br />
+            </p>
+            <p><a href="http://www.unesco.ca/en/activity/sciences/documents/BethCarruthersArtinEcologyResearchReportEnglish.pdf">Research Report on  Eco-Art (Canada Council and UNESCO)</a><br />
+            </p>
+            <p><a href="http://www.ecoartspace.org/">EcoArt Space</a><a href="http://www.ecoartspace.org/"></a></p>
+            <p>&nbsp;</p>
+            <p><br />
+                <strong><a href="http://www.ecoartspace.org/"></a></strong></p>
+          </div>
+          <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="soundingsrightcolumn" -->
+          <div id="rightcolumn"><img src="../images/illustrations/fall_08_secondary_ill_01.jpg" width="260" height="180" class="extraillustration" />
+              <div class="extraillustrationcaption">
+                <p>Ernie Kroegger, Glacier Crest, 2001, detail<br />
+                  Chromogenic print, 66cm x 66cm</p>
+              </div>
+              <div id="sidebarpoem">Content for  id "sidebarpoem" Goes Here</div>
+          </div>
+          <!-- TemplateEndEditable --></td>
+      </tr>
+      <tr>
+        <td><div id="subscribebox">
+          <p>Lake publishes fiction, poetry, critical essays, interviews, reviews and visual arts related to the environment.  <br />
+            The magazine is issued twice a year.</p>
+          <p><a href="../subscribe.html"><img src="../images/subscribe_now_btn.gif" name="subscribebtn" width="147" height="19" border="0" id="subscribebtn" /></a></p>
+        </div></td>
+      </tr>
+      <tr>
+        <td class="fpcontent">&nbsp;</td>
+      </tr>
+    </table>
+      <table width="919" border="0" cellspacing="0" cellpadding="0">
+        <tr >
+          <td id="footer"><div id="footnote">Lake - Journal of Arts and Environment</div> 
+          Faculty of Creative and Critical Studies at the University of British Columbia Okanagan</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+        <tr >
+          <td id="credit"><a href="http://www.idea-bureau.com">web design by Idea Bureau</a></td>
+        </tr>
+      </table>
+      <p>&nbsp;</p>
+    <p>&nbsp;</p></td>
+  </tr>
+</table>
+
+<map name="Map" id="Map"><area shape="rect" coords="699,24,744,44" href="../about.html" />
+<area shape="rect" coords="750,20,792,45" href="../contact.html" />
+<area shape="rect" coords="798,23,837,44" href="../index.html" />
+<area shape="rect" coords="29,26,291,100" href="../index.html" />
+</map></body>
+</html>

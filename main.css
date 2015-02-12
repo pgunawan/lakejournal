@@ -1,0 +1,157 @@
+html, body {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.centeringtable {
+	width: 100%;
+	height: 100%;
+	background-image: url(images/background.jpg);
+	background-repeat: repeat-x;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul {
+
+margin:0;
+padding: 0;
+}
+
+body {
+	background-image: url(images/body_bg.gif);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+ul {
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+li {
+	background-image: url(images/bullet.gif);
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	background-position: 0px 5px;
+	padding-bottom: 10px;
+	list-style-type: none;
+}
+h6 {
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: normal;
+}
+
+#topbanner {
+	padding-right: 48px;
+	padding-left: 44px;
+	padding-bottom: 10px;
+}
+#menuholder {
+	padding-right: 48px;
+	padding-left: 44px;
+	padding-bottom: 10px;
+}
+.flashholder {
+	float: right;
+	width: 472px;
+}
+
+*html .flashholder{
+width:470px;
+}
+
+.fpcontent {
+	padding-right: 48px;
+	padding-left: 44px;
+}
+.divider {
+	background-color: #2F5864;
+	height: 15px;
+}
+#introductions {
+	background-color: #53A5B3;
+}
+#cover {
+	padding-left: 25px;
+	background-image: url(images/fp_left_background.gif);
+	background-repeat: no-repeat;
+	padding-top: 25px;
+	padding-bottom: 20px;
+}
+#currentissue {
+	font-size: 11px;
+	color: #FFFFFF;
+	padding-top: 20px;
+	padding-right: 20px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #428895;
+	text-align: left;
+}
+#currentissue p {
+	padding-bottom: 20px;
+}
+#currentissue a {
+	color: #FFFFFF;
+}
+
+#nextissue {
+	background-image: url(images/fp_right_background.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+	color: #254650;
+	font-size: 11px;
+	padding-top: 20px;
+	padding-left: 25px;
+	padding-right: 30px;
+	text-align: left;
+}
+#nextissue p {
+	margin-bottom: 10px;
+}
+#nextissue a {
+	color: #254650;
+}
+
+#about {
+	background-image: url(images/fp_about_background.gif);
+	background-repeat: no-repeat;
+	background-color: #418592;
+	font-size: 10px;
+	color: #CCCCCC;
+	padding-left: 44px;
+	padding-top: 15px;
+	padding-right: 40px;
+	height: 85px;
+	line-height: 16px;
+	margin-top: 2px;
+	text-align: left;
+}
+#about img {
+	margin-bottom: 40px;
+	margin-right: 15px;
+}
+#about a {
+	color: #CCCCCC;
+}
+
+#footer {
+	color: #6CB1BD;
+	height: 20px;
+	font-size: 10px;
+	text-align: right;
+	padding-top: 8px;
+}
+#footer a {
+	text-decoration: none;
+	color: #6CB1BD;
+}
+
+
+#credit{
+text-align: right;
+}
+#credit a{
+	font-size: 10px;
+	color: #418592;
+	
+	padding-right: 20px;
+}
