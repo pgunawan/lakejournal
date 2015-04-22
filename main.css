@@ -26,7 +26,7 @@ ul {
 	margin-bottom: 5px;
 }
 li {
-	background-image: url(images/bullet.gif);
+	background-image: none; /*url(images/bullet.gif);*/
 	background-repeat: no-repeat;
 	padding-left: 15px;
 	background-position: 0px 5px;

@@ -370,3 +370,14 @@ text-align: right;
 	
 	padding-right: 20px;
 }
+
+/*FOR HTML SLIDER*/
+.jssorb03 div, .jssorb03 div:hover, .jssorb03 .av {
+    background: url(../img/b03.png) no-repeat;
+    overflow:hidden;
+    cursor: pointer;
+}
+.jssorb03 div { background-position: -5px -4px; }
+.jssorb03 div:hover, .jssorb03 .av:hover { background-position: -35px -4px; }
+.jssorb03 .av { background-position: -65px -4px; }
+.jssorb03 .dn, .jssorb03 .dn:hover { background-position: -95px -4px; }
