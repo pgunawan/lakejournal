@@ -57,7 +57,8 @@ function MM_swapImage() { //v3.0
         <td class="soundings" id="soundingscontent"><!-- InstanceBeginEditable name="soundingsleftcolumn" -->
           <div id="leftcolumn">
             <p class="articletitle">Contact</p>
-            Lake Publishing Society (LPS) is a non-profit society under the BC Societies Act. We have an annual general meeting each August.  Members are invited to join  [link to membership form] for $5 a year.
+            Lake Publishing Society (LPS) is a non-profit society under the BC Societies Act. We have an annual general meeting each August.  Members are invited to join for $5 a year.<br>
+            Download membership form <a href="membership_form.doc" download>here</a>
             <br><br>
             To contact LPS: <a href="mailto: lake.journal@ubc.ca">lake.journal@ubc.ca</a>, or contact the Secretary:
             <br><br>
@@ -78,7 +79,6 @@ function MM_swapImage() { //v3.0
         <td><div id="subscribebox">
           <p>Lake publishes fiction, poetry, critical essays, interviews, reviews and visual arts related to the environment.  <br />
             The magazine is issued twice a year.</p>
-          <p><a href="subscribe.php"><img src="images/subscribe_now_btn.gif" name="subscribebtn" width="147" height="19" border="0" id="subscribebtn" /></a></p>
         </div></td>
       </tr>
       <tr>

@@ -94,7 +94,6 @@ PORTIA PRIEGERT <br />
         <td><div id="subscribebox">
           <p>Lake publishes fiction, poetry, critical essays, interviews, reviews and visual arts related to the environment.  <br />
             The magazine is issued twice a year.</p>
-          <p><a href="subscribe.php"><img src="images/subscribe_now_btn.gif" name="subscribebtn" width="147" height="19" border="0" id="subscribebtn" /></a></p>
         </div></td>
       </tr>
       <tr>

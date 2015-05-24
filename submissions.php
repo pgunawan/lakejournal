@@ -64,43 +64,23 @@ function MM_swapImage() { //v3.0
             <p class="articletitle"><strong>Submission Guidelines </strong></p>
             <p><b>LAKE IS NO LONGER ACCEPTING SUBMISSIONS OF ANY KIND FOR THE FORSEEABLE FUTURE. <br></b><em>Lake</em> publishes essays, creative writing and  visual arts related to the environment. The word “environment” is used broadly  to emphasize natural and biological environments but also our geographical,  social, economic, urban and cultural environments as they relate to the natural  world. “Arts” includes literature, film, photography, painting, sculpture,  performance, and new media. Our focus is on the art that is concerned about the  natural world, although we are deeply interested in ecological issues and will  from time to time feature ecological investigations that are of literary  quality. We publish work that has not been published before in North   America by authors and artists who are from Canada  or abroad. The journal is committed to high production values, with quality  reproductions of artwork, a contemporary design, and an editorial vision that  is in search of exceptional art and thought. The journal is published twice a  year. We also publish  reviews and poetry on our webpage.</p>
             
-            <p></p>
-              <p>&nbsp;</p>
-            
-
-
-            <p></p>
+            <p><b>Other publications:</b></p>
+            <p>
+              From time to time, Lake Publishing Society takes on a project through offering financial or administrative support.  Most recently, we are supporters of the Dig Your Neighbourhood Project <a href="http://blogs.ubc.ca/theecoartincubator/dig-your-neighbourhood/">http://blogs.ubc.ca/theecoartincubator/dig-your-neighbourhood/</a>  and a chapbook contest run by OK Magpie  (see Facebook page: <a href="https://www.facebook.com/pages/OK-Magpie/416911031787301">here</a>)
+            </p><br>
+            <p>
+              For information about Lake Publishing Society, contact us at:
+              <br>
+              Lake Publishing Society
+              <br>
+              1112 Hammer Court
+              <br>
+              Kelowna BC V1W 2B9
+              <br>
+              Canada
+              <br>
+              <a href="mailto:lake.journal@ubc.ca">lake.journal@ubc.ca</a>
             </p>
-            <p><br />
-            </p>
-            <p><a name="general" id="general"></a><strong>General Guidelines </strong><br />
-              We do not accept email submissions.</p>
-            <p>All submissions must be word-processed and you should be able to provide an  electronic version of the piece in Word or rtf upon request. <em>Lake</em> encourages the economical use of paper: print your manuscript double-sided and  use a default setting of .75 inch (or 1.9 centimeters) for your margins. Poetry  should be single-spaced; prose should be doubled-spaced. Your name and contact  information should appear on each page. Provide a short cover letter with  contact information, the title of the piece you are submitting and any relevant  biographical/ professional information. </p>
-            <p>All submissions and queries must be accompanied by a self-addressed, stamped  envelope. Submissions without an SASE will not be returned or responded to.  Entries from outside Canada  require international reply coupons (IRCs) or Canadian postage. Foreign  postage, including U.S.  stamps, is not acceptable for mailing in Canada.  Email queries about submissions are acceptable. We may correspond with you via  email so do include an email address. </p>
-            <p><strong><a name="nonfiction" id="nonfiction"></a>Non-Fiction: </strong></p>
-            <p><em>Lake</em> invites writers to submit brief query  letters outlining journalistic pieces, accessible academic articles,  interviews, reviews and creative non-fiction. We are looking for narratives,  interviews, personal essays, meditations, memoirs, reviews or critical essays  of relevant books/ film/ exhibitions/ performances or cultural phenomena, and  investigative essays, ranging anywhere from 2,000 to 8,000 words. We see  interviews as collaborative texts and request that a photograph accompany the  interview. (See specs on photographs below.)    We also are looking for writers to review books.</p>
-            <p>In your query letter, convey clearly how your piece fits the “arts and environment”  mandate of <em>Lake</em> and give us a sense of your  approach, why the author and/ or subject is suited to our journal. Please  include a CV and sample of your writing. Note that our production lead time is  approximately 4 – 6 months so stories with an element of timeliness should be  delivered accordingly. </p>
-            <p><strong><a name="fiction" id="fiction"></a>Fiction and Poetry:</strong> </p>
-            <p><em>Lake</em> publishes poetry and fiction that is  concerned with the human relationship to nature. </p>
-            <p>Unsolicited poetry submissions should consist of five to ten poems, in any  style. We also publish long poems, linked poems and sequences.  Fiction may range in length from 1200 to 8000  words. Please submit only one story at a time. (In the case of “flash fiction”  or postcard stories, it is acceptable to submit up to six very short pieces.) </p>
-            <p><em>Lake</em> will consider will consider translations  of both poetry and fiction. When submitting translated work, please include a  copy of the original text and a copy of a letter of permission from the author  and/or publisher. </p>
-            <p><strong><a name="visual" id="visual"></a>Visual Art: </strong></p>
-            <p>Photographers who have produced a range of images on a particular theme are  invited to submit their work for inclusion as a photo-essay. </p>
-            <p>We welcome the submission of photographs of artwork. Please submit a CD with  work in .tif format, 600 dpi. Please include an artist’s statement and a short  bio. </p>
-            <p>Visual artists should send us a CD and cover letter and NOT  email us a link to a website.</p>
-            <p>Please send a minimum of 6 separate works.</p>
-            <p>&nbsp;</p>
-            <p>Send queries and submissions to:</p>
-            <p><em>Lake</em><em>: A Journal of Arts and Environment</em><br />
-              Dept. of Creative Studies<br />
-              University of British    Columbia Okanagan<br />
-              3333 University Way<br />
-              Kelowna,  British Columbia<br />
-              V1V 1V7   <br />
-              Canada</p>
-            <p><em>Simultaneous submissions are acceptable as long as you inform us that  this is such a submission. If your work is accepted elsewhere, notify us  immediately.</em> </p>
-            <p style="margin-bottom: 0;"><br />
-                <strong><a href="http://www.ecoartspace.org/"></a></strong></p>
           </div>
           <!-- InstanceEndEditable --><!-- InstanceBeginEditable name="soundingsrightcolumn" -->
           <div id="rightcolumn"><img src="images/illustrations/Bill_Burns_1.jpg" width="223" height="283" class="extraillustration" />
@@ -134,7 +114,6 @@ function MM_swapImage() { //v3.0
         <td><div id="subscribebox">
           <p>Lake publishes fiction, poetry, critical essays, interviews, reviews and visual arts related to the environment.  <br />
             The magazine is issued twice a year.</p>
-          <p style="margin-bottom: 0;"><a href="subscribe.php"><img src="images/subscribe_now_btn.gif" name="subscribebtn" width="147" height="19" border="0" id="subscribebtn" /></a></p>
         </div></td>
       </tr>
       <tr>

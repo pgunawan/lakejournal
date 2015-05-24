@@ -95,9 +95,39 @@ function MM_swapImage() { //v3.0
               <br><br>
               ORDER FORM - 
               <a href="DYN_Rutland_Form.docx" download>Rutland</a>
+              <br>
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <input type="hidden" name="cmd" value="_xclick" />
+                <input type="hidden" name="bn" value="webassist.dreamweaver.4_5_0" />
+                <input type="hidden" name="business" value="lake.journal@ubc.ca" />
+                <input type="hidden" name="item_name" value="DYN Rutland" />
+                <input type="hidden" name="currency_code" value="CAD" />
+                <input type="hidden" name="return" value="http://www.lakejournal.ca" />
+                <input type="hidden" name="receiver_email" value="lake.journal@ubc.ca" />
+                <input type="hidden" name="mrb" value="R-3WH47588B4505740X" />
+                <input type="hidden" name="pal" value="ANNSXSLJLYR2A" />
+                <input type="hidden" name="no_shipping" value="1" />
+                <input type="hidden" name="no_note" value="0" />
+                <input type="image" name="submit" src="images/paypal/checkout.png" border="0" alt="Make payments with PayPal, it's fast, free, and secure!" />
+              </form>
               <br><br>
               ORDER FORM – 
-              <a href="" download"DYN Mission Order Form">Mission</a>
+              <a href="DYN_Mission_Form.docx" download>Mission</a>
+              <br><br>
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <input type="hidden" name="cmd" value="_xclick" />
+                <input type="hidden" name="bn" value="webassist.dreamweaver.4_5_0" />
+                <input type="hidden" name="business" value="lake.journal@ubc.ca" />
+                <input type="hidden" name="item_name" value="DYN Mission" />
+                <input type="hidden" name="currency_code" value="CAD" />
+                <input type="hidden" name="return" value="http://www.lakejournal.ca" />
+                <input type="hidden" name="receiver_email" value="lake.journal@ubc.ca" />
+                <input type="hidden" name="mrb" value="R-3WH47588B4505740X" />
+                <input type="hidden" name="pal" value="ANNSXSLJLYR2A" />
+                <input type="hidden" name="no_shipping" value="1" />
+                <input type="hidden" name="no_note" value="0" />
+                <input type="image" name="submit" src="images/paypal/checkout.png" border="0" alt="Make payments with PayPal, it's fast, free, and secure!" />
+              </form>
               <br><br>
               FIND US ON:
               <br>
